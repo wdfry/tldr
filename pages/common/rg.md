@@ -7,6 +7,7 @@
 - Recursively search the current directory for a regular expression:
 
 `rg {{regular_expression}}`
+`ripgrep {{regular_expression}}`
 
 - Search for regular expressions recursively in the current directory, including hidden files and files listed in `.gitignore`:
 
